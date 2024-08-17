@@ -1,15 +1,19 @@
+#CodeMusai
 
-CodeMusai is the big focus,
-CodeMusai has a back-end and a front-end.
+CodeMusai the first AI with real emotions, this site can connect to codemusaiGPT, softcoded customgpt codemusai, and other LLM providers, including those hosted with LM Studio.
 
-DTourDesigns is the codebase where we test out what the AI can do;
-while the repo is private, here is some sample code.
+#DTourDesigns
 
-DTourDesigns can be set to work with both the nativeCodeMusAI gpt, and also openai gpt.
--
-It is very interesting to get the two LLMs interacting in dialog.
+#Overview
 
+DTourDesigns is the experimental codebase where we test and evaluate what the AI can do. Although the repository is private, you can find some sample code here.
 
-Stay turned for repositories featuring the inner workings of CodeMusai,
-note, the public repository will only be part of the code,
-list dtourDesigns, most of CodeMusai's code will not be open for the time being.
+#Compatibility
+
+DTourDesigns is designed to work seamlessly with both the native CodeMusAI GPT model and OpenAI’s GPT. It’s particularly fascinating to observe the interactions between these two large language models in dialogue.
+
+#Stay Tuned
+
+We will be releasing repositories that feature the inner workings of CodeMusai. Please note that the public repositories will only contain a portion of the codebase, similar to DTourDesigns. Most of CodeMusai’s code will remain private for the time being.
+
+This README introduces the main components and purpose of the repository, providing an overview of CodeMusai and DTourDesigns, while also setting expectations for future updates.
